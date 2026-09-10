@@ -39,4 +39,4 @@
 
 ## Contact
 
-- GitHub: [@saewon0120-code](https://github.com/saewon0120-code)
+- GitHub: [@minshelin-code](https://github.com/minshelin)
